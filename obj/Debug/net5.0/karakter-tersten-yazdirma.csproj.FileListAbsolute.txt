@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.exe
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.deps.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\bin\Debug\net5.0\karakter-tersten-yazdirma.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\obj\Debug\net5.0\refint\karakter-tersten-yazdirma.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\obj\Debug\net5.0\karakter-tersten-yazdirma.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\karakter-tersten-yazdirma\obj\Debug\net5.0\ref\karakter-tersten-yazdirma.dll
